@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rejpr-dev
-- 👀 I’m interested in web
-- 🌱 I’m currently learning CSS
+- 👀 I’m interested in everything about computers :D
+- 🌱 I’m currently learning CSS, JS
 
 <!---
 rejpr-dev/rejpr-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
